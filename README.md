@@ -69,8 +69,5 @@ Test calling the endpoint http://127.0.0.1:8000/api/send-email on postman. Selec
 }
 ```
 
-### License
-This project is open-source and available under the MIT License.
-
 ### Contributors
 [Isabel Scholl](https://github.com/isabelhuerta24)
